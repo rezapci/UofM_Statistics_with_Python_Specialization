@@ -9,9 +9,9 @@ Notebooks from University of Michigan Statistics with Python Specialization on C
 
 --- 
 
-<a href="https://www.coursera.org/account/accomplishments/specialization/certificate/3SXTLW33VGEV">
+<p align="center"> <a href="https://www.coursera.org/account/accomplishments/specialization/certificate/3SXTLW33VGEV">
     <img src="UofM_Statistics_with_Python.PNG" width="500" align="center">
-</a>
+</a> </p>
 
 
 • This specialization is designed to teach learners beginning and intermediate concepts of statistical analysis using the Python programming language. Learners will learn where data come from, what types of data can be collected, study data design, data management, and how to effectively carry out data exploration and visualization. They will be able to utilize data for estimation and assessing theories, construct confidence intervals, interpret inferential results, and apply more advanced statistical modeling procedures. Finally, they will learn the importance of and be able to connect research questions to the statistical and data analysis methods taught to them.
