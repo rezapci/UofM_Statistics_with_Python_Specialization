@@ -1,8 +1,8 @@
 | Name | Description | Date 
 | :- |-------------: | :-:
-|Reza Hashemi| 💻 University of Michigan Statistics with Python Specialization    | Starts on 23rd of May 2019 |
+|Reza Hashemi| 🏫 University of Michigan Statistics 📊 with Python Specialization    | Starts on 23rd of May 2019 |
 
-<h1 align="center">Statistics with Python Specialization 🤖</h1>
+<h1 align="center">🎓 Statistics with Python Specialization 🤖</h1>
 <p align="center">
 Notebooks from University of Michigan Statistics with Python Specialization on Coursera.
 </p>
