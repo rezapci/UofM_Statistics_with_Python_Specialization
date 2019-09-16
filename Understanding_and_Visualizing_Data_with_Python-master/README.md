@@ -10,7 +10,7 @@ Notebooks from University of Michigan Understanding and Visualizing 🗠 Data wi
 --- 
 
 <a href="https://www.coursera.org/account/accomplishments/certificate/PZPRJUEWXRGG">
-    <img src="UofM_Statistics_with_Python.PNG" width="500" align="center">
+    <img src="UofM_understanding_and_Visualizing_data_with_python.PNG" width="500" align="center">
 </a>
 
 Understanding and Visualizing Data with Python
