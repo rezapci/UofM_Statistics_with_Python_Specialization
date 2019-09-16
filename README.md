@@ -8,7 +8,7 @@ Notebooks from University of Michigan Statistics with Python Specialization on C
 </p>
 --- 
 <a href="https://www.coursera.org/account/accomplishments/specialization/certificate/3SXTLW33VGEV">
-    <img src="IBM_Advanced Data Science.PNG" width="400" align="center">
+    <img src="UofM_Statistics_with_Python.PNG" width="400" align="center">
 </a>
 
 
