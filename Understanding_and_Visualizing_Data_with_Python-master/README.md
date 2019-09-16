@@ -2,7 +2,10 @@
 | :- |-------------: | :-:
 |Reza Hashemi| 🏫 University of Michigan: Understanding and Visualizing 🗠 Data with Python    | September 16th 2019 |
 
-<h1 align="center">🎓 Statistics with Python Specialization. <i class="far fa-analytics"></i> 🤖</h1>
+<h1 align="center">🎓 Statistics with Python Specialization. <span class="fa-stack fa-lg">
+  <i class="fa fa-line-chart fa-stack-2x"></i>
+  <i class="fa fa-search fa-stack-1x" style="left:25px; top: 8px"></i>
+</span> 🤖</h1>
 <p align="center">
 Notebooks from University of Michigan Understanding and Visualizing 🗠 Data with Python on Coursera.
 </p>
