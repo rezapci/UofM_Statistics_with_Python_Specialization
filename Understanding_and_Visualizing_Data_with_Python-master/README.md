@@ -22,3 +22,26 @@ Notebooks from University of Michigan Understanding and Visualizing 🗠 Data wi
 <i class="far fa-chart-bar"></i>
 
 <i class="fas fa-chart-network"></i>
+
+!!! Note
+
+!!! Tip
+    It is a hint.
+
+!!! Warning
+    This is a warning
+
+!!! Danger
+    This is dangerous.
+
+!!! Success
+    This is a success.
+
+!!! Failure
+    This is a failure.
+
+!!! Bug
+    This is a bug.
+
+!!! summary
+    This is an overview.
