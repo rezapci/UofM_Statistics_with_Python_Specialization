@@ -18,3 +18,5 @@ Notebooks from University of Michigan Understanding and Visualizing 🗠 Data wi
   <i class="fa fa-line-chart fa-stack-2x"></i>
   <i class="fa fa-search fa-stack-1x" style="left:25px; top: 8px"></i>
 </span>
+
+<i class="far fa-chart-bar"></i>
