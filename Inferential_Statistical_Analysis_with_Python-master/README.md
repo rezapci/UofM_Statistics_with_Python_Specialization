@@ -1,4 +1,3 @@
-Inferential_Statistical_Analysis_with_Python
 | Name | Description | Date 
 | :- |-------------: | :-:
 |Reza Hashemi| 🏫 University of Michigan Inferential Statistical Analysis 📊 with Python.    | September 16th 2019 |
