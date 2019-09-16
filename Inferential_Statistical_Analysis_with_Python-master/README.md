@@ -9,6 +9,6 @@ Notebooks from University of Michigan Inferential Statistical Analysis with Pyth
 
 --- 
 
-<a href="https://www.coursera.org/account/accomplishments/certificate/4GSWLNQGAEPP">
+<p align="center"> <a href="https://www.coursera.org/account/accomplishments/certificate/4GSWLNQGAEPP">
     <img src="UofM_Inferential_Statistical_Analysis_with_Python.PNG" width="500" align="center">
-</a>
+</a> </p>
