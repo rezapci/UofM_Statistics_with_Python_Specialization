@@ -6,7 +6,9 @@
 <p align="center">
 Notebooks from University of Michigan Statistics with Python Specialization on Coursera.
 </p>
+
 --- 
+
 <a href="https://www.coursera.org/account/accomplishments/specialization/certificate/3SXTLW33VGEV">
     <img src="UofM_Statistics_with_Python.PNG" width="400" align="center">
 </a>
