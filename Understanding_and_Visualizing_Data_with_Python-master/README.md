@@ -20,3 +20,5 @@ Notebooks from University of Michigan Understanding and Visualizing 🗠 Data wi
 </span>
 
 <i class="far fa-chart-bar"></i>
+
+<i class="fas fa-chart-network"></i>
